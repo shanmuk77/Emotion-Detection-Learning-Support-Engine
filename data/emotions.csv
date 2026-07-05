@@ -1,0 +1,61 @@
+text,emotion
+I am tired of this repetitive lesson,Bored
+This topic feels dull and uninteresting,Bored
+I am falling asleep reading this documentation,Bored
+This lecture is so slow and boring,Bored
+I feel disconnected and unmotivated to study this,Bored
+Nothing in this course is catching my attention,Bored
+It's just the same concepts over and over again,Bored
+I am staring at the screen with no interest,Bored
+This is too tedious and monotone,Bored
+I can't bring myself to focus on this dull task,Bored
+This subject lacks any real-world excitement,Bored
+I'm just skimming through the text without caring,Bored
+Debugging this error is frustrating,Frustrated
+I keep failing and it is frustrating,Frustrated
+Why is my code not compiling at all,Frustrated
+This environment setup is driving me crazy,Frustrated
+I spent hours on this simple issue and got nowhere,Frustrated
+The library documentation is completely useless and broken,Frustrated
+Nothing is working the way it is supposed to work,Frustrated
+I want to throw my computer out of the window,Frustrated
+I am extremely annoyed with these constant errors,Frustrated
+This tool keeps crashing and losing my progress,Frustrated
+I feel stuck and unable to make any progress,Frustrated
+The instructions are vague and confusingly written,Frustrated
+I understand this concept clearly,Confident
+I can solve this problem by myself,Confident
+This task is easy and I know exactly what to do,Confident
+I am ready to take the test now,Confident
+I have mastered the basic syntax of this language,Confident
+I solved the coding challenge on my first attempt,Confident
+The logic behind this algorithm is totally clear to me,Confident
+I feel fully prepared to build this application,Confident
+I can explain this topic to anyone else,Confident
+This is perfectly clear and I feel great about it,Confident
+I easily resolved the issue on my own,Confident
+I am succeeding in all the quizzes,Confident
+I do not understand recursion,Confused
+This explanation makes no sense to me,Confused
+I am lost in all these nested loops,Confused
+What is the difference between these two algorithms,Confused
+I don't know where to start solving this math problem,Confused
+The diagrams are very confusing and hard to follow,Confused
+Why did this function return a different value,Confused
+I am struggling to follow the logic of this lesson,Confused
+Could you explain what this line of code does,Confused
+I'm not sure which framework I should choose,Confused
+The variables seem to change value randomly,Confused
+I don't understand how these classes inherit each other,Confused
+I want to explore machine learning more,Curious
+How does a transformer really work,Curious
+I wonder if we can optimize this algorithm further,Curious
+Is there a way to apply this to neural networks,Curious
+I want to research the history of computer science,Curious
+What happens if we increase the learning rate,Curious
+I am eager to learn about generative AI models,Curious
+Let's investigate how the compiler parses this string,Curious
+I want to try building a custom browser agent,Curious
+Are there other alternatives to this database structure,Curious
+This concept is fascinating and I want to dive deeper,Curious
+I'm excited to see how this works under the hood,Curious

@@ -1,0 +1,15 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+data/learning_history.csv
+models/bilstm_model.keras
+models/tokenizer.pkl
+models/label_encoder.pkl
+models/bert_emotion_model/
+bert_runs/
+mingit/
